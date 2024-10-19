@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alejandro\\OneDrive - Universidad Hispanoamericana\\III Cuatrimestre\\Programacion II\\Tareas - Proyectos\\Examen1\\ExamenAlejandroCarvajal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{828CFC20-A91D-46A2-A093-3D0F2301AD37}|ExamenAlejandroCarvajal\\ExamenAlejandroCarvajal.csproj|c:\\users\\alejandro\\onedrive - universidad hispanoamericana\\iii cuatrimestre\\programacion ii\\tareas - proyectos\\examen1\\examenalejandrocarvajal\\examenalejandrocarvajal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828CFC20-A91D-46A2-A093-3D0F2301AD37}|ExamenAlejandroCarvajal\\ExamenAlejandroCarvajal.csproj|solutionrelative:examenalejandrocarvajal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828CFC20-A91D-46A2-A093-3D0F2301AD37}|ExamenAlejandroCarvajal\\ExamenAlejandroCarvajal.csproj|c:\\users\\alejandro\\onedrive - universidad hispanoamericana\\iii cuatrimestre\\programacion ii\\tareas - proyectos\\examen1\\examenalejandrocarvajal\\examenalejandrocarvajal\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828CFC20-A91D-46A2-A093-3D0F2301AD37}|ExamenAlejandroCarvajal\\ExamenAlejandroCarvajal.csproj|solutionrelative:examenalejandrocarvajal\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828CFC20-A91D-46A2-A093-3D0F2301AD37}|ExamenAlejandroCarvajal\\ExamenAlejandroCarvajal.csproj|c:\\users\\alejandro\\onedrive - universidad hispanoamericana\\iii cuatrimestre\\programacion ii\\tareas - proyectos\\examen1\\examenalejandrocarvajal\\examenalejandrocarvajal\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828CFC20-A91D-46A2-A093-3D0F2301AD37}|ExamenAlejandroCarvajal\\ExamenAlejandroCarvajal.csproj|solutionrelative:examenalejandrocarvajal\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "menu.cs",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\OneDrive - Universidad Hispanoamericana\\III Cuatrimestre\\Programacion II\\Tareas - Proyectos\\Examen1\\ExamenAlejandroCarvajal\\ExamenAlejandroCarvajal\\menu.cs",
+              "RelativeDocumentMoniker": "ExamenAlejandroCarvajal\\menu.cs",
+              "ToolTip": "C:\\Users\\Alejandro\\OneDrive - Universidad Hispanoamericana\\III Cuatrimestre\\Programacion II\\Tareas - Proyectos\\Examen1\\ExamenAlejandroCarvajal\\ExamenAlejandroCarvajal\\menu.cs",
+              "RelativeToolTip": "ExamenAlejandroCarvajal\\menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:22:52.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\OneDrive - Universidad Hispanoamericana\\III Cuatrimestre\\Programacion II\\Tareas - Proyectos\\Examen1\\ExamenAlejandroCarvajal\\ExamenAlejandroCarvajal\\empleado.cs",
+              "RelativeDocumentMoniker": "ExamenAlejandroCarvajal\\empleado.cs",
+              "ToolTip": "C:\\Users\\Alejandro\\OneDrive - Universidad Hispanoamericana\\III Cuatrimestre\\Programacion II\\Tareas - Proyectos\\Examen1\\ExamenAlejandroCarvajal\\ExamenAlejandroCarvajal\\empleado.cs",
+              "RelativeToolTip": "ExamenAlejandroCarvajal\\empleado.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:22:26.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\OneDrive - Universidad Hispanoamericana\\III Cuatrimestre\\Programacion II\\Tareas - Proyectos\\Examen1\\ExamenAlejandroCarvajal\\ExamenAlejandroCarvajal\\Program.cs",
+              "RelativeDocumentMoniker": "ExamenAlejandroCarvajal\\Program.cs",
+              "ToolTip": "C:\\Users\\Alejandro\\OneDrive - Universidad Hispanoamericana\\III Cuatrimestre\\Programacion II\\Tareas - Proyectos\\Examen1\\ExamenAlejandroCarvajal\\ExamenAlejandroCarvajal\\Program.cs",
+              "RelativeToolTip": "ExamenAlejandroCarvajal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:21:27.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

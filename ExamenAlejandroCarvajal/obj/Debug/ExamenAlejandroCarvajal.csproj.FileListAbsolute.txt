@@ -1,0 +1,7 @@
+C:\Users\Alejandro\OneDrive - Universidad Hispanoamericana\III Cuatrimestre\Programacion II\Tareas - Proyectos\Examen1\ExamenAlejandroCarvajal\ExamenAlejandroCarvajal\bin\Debug\ExamenAlejandroCarvajal.exe.config
+C:\Users\Alejandro\OneDrive - Universidad Hispanoamericana\III Cuatrimestre\Programacion II\Tareas - Proyectos\Examen1\ExamenAlejandroCarvajal\ExamenAlejandroCarvajal\bin\Debug\ExamenAlejandroCarvajal.exe
+C:\Users\Alejandro\OneDrive - Universidad Hispanoamericana\III Cuatrimestre\Programacion II\Tareas - Proyectos\Examen1\ExamenAlejandroCarvajal\ExamenAlejandroCarvajal\bin\Debug\ExamenAlejandroCarvajal.pdb
+C:\Users\Alejandro\OneDrive - Universidad Hispanoamericana\III Cuatrimestre\Programacion II\Tareas - Proyectos\Examen1\ExamenAlejandroCarvajal\ExamenAlejandroCarvajal\obj\Debug\ExamenAlejandroCarvajal.csproj.AssemblyReference.cache
+C:\Users\Alejandro\OneDrive - Universidad Hispanoamericana\III Cuatrimestre\Programacion II\Tareas - Proyectos\Examen1\ExamenAlejandroCarvajal\ExamenAlejandroCarvajal\obj\Debug\ExamenAlejandroCarvajal.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\OneDrive - Universidad Hispanoamericana\III Cuatrimestre\Programacion II\Tareas - Proyectos\Examen1\ExamenAlejandroCarvajal\ExamenAlejandroCarvajal\obj\Debug\ExamenAlejandroCarvajal.exe
+C:\Users\Alejandro\OneDrive - Universidad Hispanoamericana\III Cuatrimestre\Programacion II\Tareas - Proyectos\Examen1\ExamenAlejandroCarvajal\ExamenAlejandroCarvajal\obj\Debug\ExamenAlejandroCarvajal.pdb
